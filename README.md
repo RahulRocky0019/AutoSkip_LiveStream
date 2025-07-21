@@ -80,6 +80,10 @@ If you encounter any issues:
 
 -   **v1.0.0**: Initial release with core functionality and theme system
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
 ---
 
 Made with ❤️ for a better YouTube experience
