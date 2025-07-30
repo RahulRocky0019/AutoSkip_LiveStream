@@ -6,7 +6,7 @@
 
 _Automatically detects and skips YouTube live streams, seamlessly continuing your video queue for an uninterrupted viewing experience._
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/auto-skip-live-stream/[EXTENSION_ID])
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Available-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-skip-live-stream/cnfghflmiofddjlofblblncaigbkdobl)
 [![Version](https://img.shields.io/badge/Version-1.0.0-2ea44f?style=flat)](https://github.com/RahulRocky0019/AutoSkip_LiveStream/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat)](LICENSE.md)
 
@@ -51,13 +51,11 @@ _Automatically detects and skips YouTube live streams, seamlessly continuing you
 
 <div align="center">
 
-[![Install from Chrome Web Store](https://img.shields.io/badge/Install%20Now-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/auto-skip-live-stream/[EXTENSION_ID])
+[![Install from Chrome Web Store](https://img.shields.io/badge/Install%20Now-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-skip-live-stream/cnfghflmiofddjlofblblncaigbkdobl)
 
 **One-click installation with automatic updates**
 
 </div>
-
-_Note: Please replace the placeholder URL with your actual Chrome Web Store listing once published_
 
 ### 🛠️ Development Installation
 
@@ -197,7 +195,7 @@ Live Stream Detected
 
 -   [Report Issues on GitHub](https://github.com/RahulRocky0019/AutoSkip_LiveStream/issues)
 -   [Email Support](mailto:rahul.rocky0019@gmail.com)
--   [Rate on Chrome Web Store](https://chrome.google.com/webstore/detail/auto-skip-live-stream/[EXTENSION_ID])
+-   [Rate on Chrome Web Store](https://chromewebstore.google.com/detail/auto-skip-live-stream/cnfghflmiofddjlofblblncaigbkdobl)
 
 ## 🤝 Contributing
 
@@ -226,4 +224,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Made with ❤️ for a better YouTube experience
 
-[Privacy Policy](PRIVACY_POLICY.md) | [Chrome Web Store](https://chrome.google.com/webstore/detail/auto-skip-live-stream/[EXTENSION_ID]) | [Report Issues](https://github.com/RahulRocky0019/AutoSkip_LiveStream/issues)
+[Privacy Policy](PRIVACY_POLICY.md) | [Chrome Web Store](https://chromewebstore.google.com/detail/auto-skip-live-stream/cnfghflmiofddjlofblblncaigbkdobl) | [Report Issues](https://github.com/RahulRocky0019/AutoSkip_LiveStream/issues)
